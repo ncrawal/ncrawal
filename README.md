@@ -26,6 +26,6 @@ Bachelor's Degree in Computer Science From India Gujarat,
 Contact
 Email: ncrawal19@outlook.com
 LinkedIn:https://www.linkedin.com/in/niraj-rawal-131123168/
-GitHub: [[Your GitHub Profile URL]](https://github.com/ncrawal)
+GitHub:(https://github.com/ncrawal)
 Feel free to reach out to me if you have any questions or would like to collaborate on an exciting project!
 
